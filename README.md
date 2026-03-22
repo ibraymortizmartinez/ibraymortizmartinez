@@ -56,6 +56,8 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 
 ---
 
+## Comunicate:
+
 <div align="left">
   <a href="https://ibraymortizmartinez.com" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
