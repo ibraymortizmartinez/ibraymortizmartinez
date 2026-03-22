@@ -66,6 +66,3 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
----
-![Spotify](https://metrics.lecoq.io/ibraymortizmartinez?base=&plugin_music=yes&plugin_music_provider=spotify&plugin_music_mode=recent&plugin_music_token=TU_TOKEN)
