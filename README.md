@@ -40,6 +40,10 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 
 ---
 
+![Mis Commits](https://metrics.lecoq.io/ibraymortizmartinez?base=commits&base.limit=5&commits.authoring=TU_USUARIO)
+
+--
+
 ## 🐍 Mis Contribuciones en Código
 
 <div align="center">
