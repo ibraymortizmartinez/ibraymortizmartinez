@@ -1,16 +1,55 @@
-## Hi there 👋
+# ¡Hola! Soy Ibraym 👋
 
-<!--
-**ibraymortizmartinez/ibraymortizmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desarrollador Web Frontend 💻
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfocado en crear interfaces limpias, interactivas y centradas en la experiencia del usuario. Me encanta transformar ideas en código y aprender nuevas herramientas en el proceso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+* 🚀 Construyo aplicaciones web interactivas y escalables.
+* 🧠 Enfocado en mejorar mis habilidades en **JavaScript**, diseño UI/UX y maquetación web.
+* 🔌 Experiencia en el consumo de **APIs REST**, manejo de datos en formato **JSON** y peticiones HTTP (operaciones **CRUD**).
+* 🎨 Me gusta experimentar con animaciones, Canvas y frameworks CSS.
+* 🤝 ¡Siempre abierto a colaborar en proyectos de código abierto o nuevas ideas!
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+| Frontend | APIs & Datos | Herramientas & Versiones |
+| :--- | :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=databricks&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Fetch API](https://img.shields.io/badge/Fetch_API-4285F4?style=for-the-badge) | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | | |
+
+---
+
+## 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibraymortizmartinez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibraymortizmartinez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibraym Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraymortizmartinez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+## 📫 Conecta conmigo
+
+<div align="left">
+  <a href="https://ibraymortizmartinez.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/angel-ibraym-ortiz-mart%C3%ADnez-973360354" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/ibraym_om" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibraymortizmartinez&theme=elegant&locale=es&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
