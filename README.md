@@ -58,6 +58,9 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 ---
 ## Comunicate:
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F3FF&width=500&lines=Sígueme+en+mis+redes+sociales" alt="Typing SVG" />
+</p>
+
 <p align="left">
   <a href="https://ibraymortizmartinez.com" target="_blank">
     <img src="https://img.shields.io/badge/PORTAFOLIO-000000?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Portafolio">
