@@ -56,10 +56,15 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibraymortizmartinez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-## Comunicate:
+---
+## 🎵 ¿Qué estoy escuchando?
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F3FF&width=500&lines=Sígueme+en+mis+redes+sociales" alt="Typing SVG" />
+<p align="center">
+  <img src="https://github.com/ibraymortizmartinez/ibraymortizmartinez/blob/main/github-metrics-spotify.svg" alt="Spotify" width="400">
 </p>
+
+---
+## 🌐 Conéctate conmigo
 
 <p align="left">
   <a href="https://ibraymortizmartinez.com" target="_blank">
@@ -71,5 +76,11 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
   <a href="https://www.instagram.com/ibraym_om" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+</p>
+
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=Gracias+por+visitar+mi+perfil;¡Hagamos+cosas+increíbles!" alt="Typing SVG" />
 </p>
 
