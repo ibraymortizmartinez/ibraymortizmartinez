@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ibraym 👋
 
-![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005A&center=false&vCenter=false&width=435&lines=¡Hola!+Soy+Ibraym;Desarrollador+Fullstack;Apasionado+por+el+código;Bienvenido+a+mi+perfil)
+![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005A&center=false&vCenter=false&width=435&lines=¡Hola!;Desarrollador+Fullstack;Apasionado+por+el+código;Bienvenido+a+mi+perfil)
 
 ### Desarrollador Web Frontend 💻
 
