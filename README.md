@@ -1,5 +1,7 @@
 # ¡Hola! Soy Ibraym 👋
 
+![Texto Animado](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005A&center=false&vCenter=false&width=435&lines=¡Hola!+Soy+Ibraym;Desarrollador+Fullstack;Apasionado+por+el+código;Bienvenido+a+mi+perfil)
+
 ### Desarrollador Web Frontend 💻
 
 Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfocado en crear interfaces limpias, interactivas y centradas en la experiencia del usuario. Me encanta transformar ideas en código y aprender nuevas herramientas en el proceso.
