@@ -2,9 +2,12 @@ name: Generate Snake
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 12 horas
     - cron: "0 */12 * * *" 
   workflow_dispatch:
+
+# Aquí le damos permiso explícito al bot para guardar archivos
+permissions:
+  contents: write
 
 jobs:
   build:
