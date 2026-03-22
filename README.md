@@ -57,14 +57,15 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 ---
 ## Comunicate:
 
-<div align="left">
+<p align="left">
   <a href="https://ibraymortizmartinez.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-252F3F?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTAFOLIO-000000?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Portafolio">
   </a>
   <a href="https://www.linkedin.com/in/angel-ibraym-ortiz-mart%C3%ADnez-973360354" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/ibraym_om" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</div>
+</p>
+
