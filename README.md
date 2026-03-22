@@ -34,8 +34,8 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibraymortizmartinez&show_icons=true&theme=elegant&hide_border=true&count_private=true&locale=es" alt="Ibraym Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraymortizmartinez&layout=compact&theme=elegant&hide_border=true&locale=es" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibraymortizmartinez&show_icons=true&theme=dark&hide_border=true&locale=es&v=1" alt="Ibraym Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibraymortizmartinez&layout=compact&theme=dark&hide_border=true&locale=es&v=1" alt="Top Langs" />
 </div>
 
 ---
