@@ -29,7 +29,7 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibraymortizmartinez&theme=elegant&locale=es&date_format=%5BY.%5Dn.j&mode=weekly&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibraymortizmartinez&theme=dark&locale=es&date_format=%5BY.%5Dn.j&mode=weekly&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 <br/>
