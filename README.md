@@ -56,14 +56,6 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibraymortizmartinez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
----
-## 🎵 ¿Qué estoy escuchando?
-
-<p align="center">
-  <img src="https://github.com/ibraymortizmartinez/ibraymortizmartinez/blob/main/github-metrics-spotify.svg" alt="Spotify" width="400">
-</p>
-
----
 ## 🌐 Conéctate conmigo
 
 <p align="left">
