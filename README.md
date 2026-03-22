@@ -51,10 +51,10 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 </div>
 
 --
+
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ibraymortizmartinez&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibraymortizmartinez&layout=compact&theme=vision-friendly-dark)
-## 📫 Conecta conmigo
 
 <div align="left">
   <a href="https://ibraymortizmartinez.com" target="_blank">
