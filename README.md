@@ -28,12 +28,14 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibraymortizmartinez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ibraymortizmartinez&theme=elegant&locale=es&date_format=%5BY.%5Dn.j&mode=weekly&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibraymortizmartinez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ibraym Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraymortizmartinez&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ibraymortizmartinez&show_icons=true&theme=elegant&hide_border=true&count_private=true&locale=es" alt="Ibraym Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibraymortizmartinez&layout=compact&theme=elegant&hide_border=true&locale=es" alt="Top Langs" />
 </div>
 
 ---
@@ -62,5 +64,3 @@ Bienvenido a mi perfil de GitHub. Soy un apasionado por el desarrollo web, enfoc
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ibraymortizmartinez&theme=elegant&locale=es&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
